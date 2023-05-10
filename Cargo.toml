@@ -1,0 +1,7 @@
+[package]
+name = "parser-combinators"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kakotkin Alexei <alexei@kakotkin.ru>"]
+
+[dependencies]
